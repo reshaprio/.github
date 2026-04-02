@@ -16,7 +16,7 @@ Microcks releases follow the [semver](https://semver.org/) specification. Securi
 
 ## Security Team
 
-The security team is made up of a subset of the project [maintainers](https://github.com/reshaprio/.github/blob/main/GOVERNANCE.md#maintainers-code-owners-contributors-and-adopters) and [code owners](https://github.com/reshaprio/.github/blob/main/GOVERNANCE.md#maintainers-code-owners-contributors-and-adopters) who are willing and able to respond to vulnerability reports.
+The security team is made up of a subset of the project [maintainers](GOVERNANCE.md#maintainers-code-owners-contributors-and-adopters) and [code owners](GOVERNANCE.md#maintainers-code-owners-contributors-and-adopters) who are willing and able to respond to vulnerability reports.
 
 ## Credits
 
