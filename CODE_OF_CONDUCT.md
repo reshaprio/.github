@@ -7,8 +7,8 @@ Reshapr project adheres to the [CNCF Code of Conduct](https://github.com/cncf/fo
 As contributors and maintainers of the Reshapr project, we are committed to fostering an open, welcoming, and inclusive environment. By participating in our community, we pledge to:
 
 - Promote a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, experience level, nationality, personal appearance, race, religion, or sexual identity and orientation.
-- Support a spirit of mutual respect, empathy, and cooperation, ensuring that every contribution—big or small—is valued.
-- Encourage collaboration, knowledge-sharing, and continuous learning, as these are the cornerstones of any successful open-source community.
+- Support a spirit of mutual respect, empathy, and cooperation, ensuring that every contribution, big or small is valued.
+- Encourage collaboration, knowledge-sharing, and continuous learning, as these are the cornerstones of any successful open source community.
 
 ## Our Standards
 
@@ -21,9 +21,10 @@ To ensure a productive, positive experience for all community members, we ask ev
 
 ## Enforcement
 
-Instances of unacceptable behavior—including harassment, abusive language, or any other forms of misconduct—should be reported to the Reshapr project team at **info@reshapr.io**.
+Instances of unacceptable behavior—including harassment, abusive language, or any other forms of misconduct should be reported to the Reshapr project team at **info@reshapr.io**.
 
 The project team will:
+
 - Review and investigate all reports confidentially.
 - Take action deemed appropriate for the situation, including potential temporary or permanent bans from the community.
 - Keep the identity of the reporter confidential, ensuring a safe and respectful process for all involved.
