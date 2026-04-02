@@ -22,7 +22,6 @@ The following members are [code owners](GOVERNANCE.md#maintainers-code-owners-co
 
 | Name | GitHub ID | Affiliation | Sub-Projects |
 |----------------------------------------------------------|-------------------------------------------------------------|-------------------|-------------------|
-|  |  |  |  |
 
 ## Emeritus
 
@@ -30,4 +29,3 @@ Below the list of Emeritus members are those who are no longer active but are re
 
 | Name | GitHub ID | Affiliation | Sub-Projects |
 |----------------------------------------------------------|-------------------------------------------------------------|-------------------|-------------------|
-|  |  |  |  |
