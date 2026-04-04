@@ -66,6 +66,6 @@ We are building the future of AI-integrated infrastructure, and we’d love for 
 
 ## Support the project! 🌟
 
-If you think reShapr is useful for the AI ecosystem, [**give us a star**](https://github.com/reshaprio/reshapr)! It helps us get more visibility and keep the project growing.
+If you think reShapr is useful for the AI ecosystem, [**give us a star** on our main repository](https://github.com/reshaprio/reshapr)! It helps us get more visibility and keep the project growing.
 
 Making APIs talk to AI, the right way. Built with ❤️ by the reShapr team and contributors.
