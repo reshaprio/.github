@@ -9,6 +9,7 @@
 [![YouTube](https://img.shields.io/badge/youtube-@reshaprio-blue.svg?color=ff0000&style=for-the-badge&logo=youtube)](https://www.youtube.com/@reshaprio)
 [![Project Chat](https://img.shields.io/badge/discord-reshapr-pink.svg?color=7289da&style=for-the-badge&logo=discord)](https://discord.gg/KyDUdam34h)
 [![License](https://img.shields.io/github/license/microcks/microcks?style=for-the-badge&logo=apache)](https://www.apache.org/licenses/LICENSE-2.0)
+[![GitHub stars](https://img.shields.io/github/stars/reshaprio/reshapr?style=for-the-badge&logo=github&color=ffad05)](https://github.com/reshaprio/reshapr)
 
 # Welcome to reShapr 🚀
 
@@ -61,6 +62,7 @@ We are building the future of AI-integrated infrastructure, and we’d love for 
 
 * **Contribute:** Check out our [Contributing Guide](CONTRIBUTING.md).
 * **Chat:** Join our community on [Discord](https://discord.gg/KyDUdam34h).
+* **Join** our first [stargazers](https://github.com/reshaprio/reshapr/stargazers), [**⭐️ here**](https://github.com/reshaprio/reshapr) and help shape the future of AI-Native APIs!
 
 ---
 
