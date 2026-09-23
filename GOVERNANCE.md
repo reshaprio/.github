@@ -37,7 +37,7 @@ To become a maintainer, you need to get involved with the reShapr project on Git
 * Participation: For three months or more. Examples include participation in discussions, contributions and code or documentation reviews.
 * Collaboration: Demonstrate the ability to work with others, take on new ideas and help others succeed.
 * Availability (ideally full-time): Be available on Slack, Discord, GitHub, and email so you can help move the project forward in a timely way.
-* Respect: Alignment with reShapr and CNCF code of conduct and guiding principles.
+* Respect: Alignment with reShapr and AAIF code of conduct and guiding principles.
 
 ### Voting in and voting out maintainers
 
@@ -87,7 +87,7 @@ Changes to governance policy and any supporting documents must be agreed upon an
 This Project Governance is a living document. As the reShapr community and project continue to evolve, maintainers are **committed** to improving and openly sharing our governance model, ensuring transparency and collaboration every step of the way.
 
 ## Code of Conduct
-reShapr follows the [Code of Conduct](CODE_OF_CONDUCT.md), which is aligned with the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+reShapr follows the [Code of Conduct](CODE_OF_CONDUCT.md), which is aligned with the [Agentic AI Foundation (AAIF) Code of Conduct](https://github.com/aaif/foundation/blob/main/CODE_OF_CONDUCT.md).
 
 ## Credits
 Thanks to [Dawn Foster](https://github.com/geekygirldawn) for the inspiring talk and valuable insights at KubeCon Europe 2022: "Good Governance Practices for CNCF Projects":
