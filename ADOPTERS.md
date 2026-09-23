@@ -18,3 +18,4 @@ This document also lists the organizations using reShapr based on public informa
 
 | Organization | Contact | Adopter type | Description of Use / Reference |
 |---------------------|---------------------|---------------------|-----------------------------------------------------------------------------------|
+| [Guillaume Goisset](https://low-code-consultant.com) | [@GuillaumeExia](https://github.com/GuillaumeExia) | End user, Consultancy | Head of Automation at [PayCaptain](https://paycaptain.com) and independent consultant. Uses reShapr to let AI assistants work with business systems: PayCaptain's payroll API and, for a client in fashion retail, a PLM product catalog they can query in plain language and sync to multiple Shopify stores (products and prices), served from one consolidated MCP server built with cross-service scripted Custom Tools. |
