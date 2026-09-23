@@ -19,8 +19,8 @@ The reShapr project has four roles. All project members operate in one (or more)
 
 | Level | Role | Responsibilities |
 | :---  | :--- | :--- |
-| 1 | **Maintainer** | Vote, Develop roadmap and contribution guidelines; Review, Approve/Reject, Merge, and Manage repositories. Maintainers are elected or removed by the current maintainers. A Maintainer has authority over the entire Microcks project: the organization and every project, sub-project and repo within the organization. |
-| 2 | **Code Owner** | Have special expertise in a particular domain within the Microcks project. The domain may be a sub-project, repo or other responsibility as defined by the Maintainers. The maintainers grant a code owner (alias Domain Maintainers) a set of authorities and responsibilities for the domain. Code owners are expected to join maintainer and community meetings when required. A code owner has no responsibilities for the entire project, organization or projects outside their domain. Code owners role, refer to [GitHub CODEOWNERS](https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) capabilities. |
+| 1 | **Maintainer** | Vote, Develop roadmap and contribution guidelines; Review, Approve/Reject, Merge, and Manage repositories. Maintainers are elected or removed by the current maintainers. A Maintainer has authority over the entire reShapr project: the organization and every project, sub-project and repo within the organization. |
+| 2 | **Code Owner** | Have special expertise in a particular domain within the reShapr project. The domain may be a sub-project, repo or other responsibility as defined by the Maintainers. The maintainers grant a code owner (alias Domain Maintainers) a set of authorities and responsibilities for the domain. Code owners are expected to join maintainer and community meetings when required. A code owner has no responsibilities for the entire project, organization or projects outside their domain. Code owners role, refer to [GitHub CODEOWNERS](https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) capabilities. |
 | 3 | **Contributor** | Contribute code, test and document the project. A contributor’s authority applies to one or more sub-projects. reShapr is a very welcoming community and is eager to onboard and help anyone from the open source community to contribute to the project. |
 | 4 | **Adopter** | Use the reShapr project, with or without contributing to the project. Adopters are encouraged to raise issues, provide feedback and participate in discussions on sub-projects within a public forum and community. |
 
@@ -37,7 +37,7 @@ To become a maintainer, you need to get involved with the reShapr project on Git
 * Participation: For three months or more. Examples include participation in discussions, contributions and code or documentation reviews.
 * Collaboration: Demonstrate the ability to work with others, take on new ideas and help others succeed.
 * Availability (ideally full-time): Be available on Slack, Discord, GitHub, and email so you can help move the project forward in a timely way.
-* Respect: Alignment with Microcks and CNCF code of conduct and guiding principles.
+* Respect: Alignment with reShapr and CNCF code of conduct and guiding principles.
 
 ### Voting in and voting out maintainers
 
@@ -53,7 +53,7 @@ For maintainers voted in, permissions are immediately added. For maintainers, vo
 
 ### Becoming a Code Owner
 
-A Code Owner (alias Domain Maintainers) is appointed by the maintainers to recognize a contributor with expertise and authority in a specific domain. Code Owners are appointed to have elevated privileges, authority and specific responsibilities. The code owner role is part of the Microcks contributor ladder and is the primary path from contributor to maintainer. The roles and responsibilities of code owners are scoped. A person can have one or more code owner responsibilities.
+A Code Owner (alias Domain Maintainers) is appointed by the maintainers to recognize a contributor with expertise and authority in a specific domain. Code Owners are appointed to have elevated privileges, authority and specific responsibilities. The code owner role is part of the reShapr contributor ladder and is the primary path from contributor to maintainer. The roles and responsibilities of code owners are scoped. A person can have one or more code owner responsibilities.
 
 Code owners are enabled to act independently. They do not have responsibilities or voting rights over the entire project or organization. They are expected to participate with the community, but they are not expected to participate in maintainer meetings unless requested.
 
@@ -62,9 +62,9 @@ Code owners are enabled to act independently. They do not have responsibilities 
 If a maintainer or code owner can no longer fulfill their commitments, they should consult with the maintainers and either take a sabbatical or step down from their role. All maintainers share the responsibility of ensuring the group operates with consistent dedication. If a maintainer or code owner fails to meet their commitments, they may be voted out by the maintainers and transitioned to emeritus status.
 
 ## Adding or Removing Sub Projects
-Microcks maintainers have the authority to add or remove sub-projects or repositories as needed. We follow a careful approach when making these changes: any new sub-project must serve a long-term purpose that is clearly distinct from existing ones, while sub-projects slated for removal must be shown to have either outlived their usefulness, become deprecated or unmaintainable.
+reShapr maintainers have the authority to add or remove sub-projects or repositories as needed. We follow a careful approach when making these changes: any new sub-project must serve a long-term purpose that is clearly distinct from existing ones, while sub-projects slated for removal must be shown to have either outlived their usefulness, become deprecated or unmaintainable.
 
-When a sub-project is removed, it will be archived as-is within the Microcks-archive organization, along with its associated repositories, ensuring transparency and historical reference.
+When a sub-project is removed, it will be archived as-is, along with its associated repositories, ensuring transparency and historical reference.
 
 ## Conflict Resolutions
 Typically, it is assumed that disputes will be resolved amicably by those involved. However, if the situation becomes more serious, conflicts will be resolved through a voting process. A supermajority of votes from project maintainers is required to make a decision, and the project lead has the final say in the ruling.
@@ -84,10 +84,10 @@ The maintainers will also have closed meetings to discuss security reports or Co
 ## Governance Changes
 Changes to governance policy and any supporting documents must be agreed upon and approved by 66% (2/3) of the maintainers either by vote or by review and approval of a PR on the document.
 
-This Project Governance is a living document. As the Microcks community and project continue to evolve, maintainers are **committed** to improving and openly sharing our governance model, ensuring transparency and collaboration every step of the way.
+This Project Governance is a living document. As the reShapr community and project continue to evolve, maintainers are **committed** to improving and openly sharing our governance model, ensuring transparency and collaboration every step of the way.
 
 ## Code of Conduct
-Microcks follow the [Code of Conduct](CODE_OF_CONDUCT.md), which is aligned with the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+reShapr follows the [Code of Conduct](CODE_OF_CONDUCT.md), which is aligned with the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
 ## Credits
 Thanks to [Dawn Foster](https://github.com/geekygirldawn) for the inspiring talk and valuable insights at KubeCon Europe 2022: "Good Governance Practices for CNCF Projects":

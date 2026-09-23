@@ -12,7 +12,7 @@ We prefer to fully disclose the bug as soon as possible once a user mitigation i
 
 ## Supported Versions
 
-Microcks releases follow the [semver](https://semver.org/) specification. Security fixes are typically merged into the current development branch and are due for release in the next minor version. We may create a fix release upon request or, if deemed necessary, as part of a critical security fix.
+reShapr releases follow the [semver](https://semver.org/) specification. Security fixes are typically merged into the current development branch and are due for release in the next minor version. We may create a fix release upon request or, if deemed necessary, as part of a critical security fix.
 
 ## Security Team
 
