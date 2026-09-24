@@ -14,6 +14,7 @@ permissions:
 jobs:
   run:
     permissions:
+      contents: read  # job-level permissions replace, not merge with, the top-level block
       issues: write  # for wow-actions/welcome to comment on issues
       pull-requests: write  # wow-actions/welcome to comment on PRs
     runs-on: ubuntu-latest
@@ -27,22 +28,20 @@ jobs:
           FIRST_ISSUE: |
             👋 @{{ author }}
             
-            Welcome to the Reshapr community! 💖
+            Welcome to the reShapr community! 💖
             
             Thanks and congrats 🎉 for opening your first issue here! Be sure to follow the issue template or please update it accordingly.
             
-            📢 If you're using Reshapr in your organization, please [add your company name to this list](https://github.com/reshapr/.github/blob/main/ADOPTERS.md). 🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
-            
-            If you need to know why and how to add yourself to the list, please read the blog post ["Join the Reshapr Adopters list and Empower the vibrant open source Community 🙌"](https://reshapr.io/blog/join-adopters-list/)
-            
-            Hope you have a great time there! 
+            📢 If you're using reShapr in your organization, please [add your company name to this list](https://github.com/reshaprio/.github/blob/main/ADOPTERS.md). 🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
+
+            Hope you have a great time there!
           
           FIRST_PR_REACTIONS: '+1, hooray, rocket, heart'
           
           FIRST_PR: |
             👋 @{{ author }}
             
-            Welcome to the Reshapr community! 💖
+            Welcome to the reShapr community! 💖
             
             Thanks and congrats 🎉 for opening your first pull request here! Be sure to follow the pull request template or please update it accordingly.
             
@@ -51,20 +50,18 @@ jobs:
           FIRST_PR_MERGED: |
             🎉 @{{ author }}
             
-            You are now a Reshapr community contributor! 💖
+            You are now a reShapr community contributor! 💖
             
-            Thanks and congrats 🚀 on merging your first pull request! We are delighted and very proud of you! 👏 
-            
-            📢 If you're using Reshapr in your organization, please [add your company name to this list](https://github.com/reshapr/.github/blob/main/ADOPTERS.md). 🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
-            
-            If you need to know why and how to add yourself to the list, please read the blog post ["Join the Reshapr Adopters list and Empower the vibrant open source Community 🙌"](https://reshapr.io/blog/join-adopters-list/)
-            
+            Thanks and congrats 🚀 on merging your first pull request! We are delighted and very proud of you! 👏
+
+            📢 If you're using reShapr in your organization, please [add your company name to this list](https://github.com/reshaprio/.github/blob/main/ADOPTERS.md). 🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
+
             Kudos and please keep going, we need you 🙌
             
           STAR_MESSAGE: |
             🌟 ~~~~~~~~~ 🌟
 
-            📢 If you like Reshapr, please ⭐ star ⭐ our repo to support it!
+            📢 If you like reShapr, please ⭐ star ⭐ our repo to support it!
             
             🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
             
