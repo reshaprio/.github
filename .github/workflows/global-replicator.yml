@@ -13,6 +13,7 @@ on:
       - ".github/workflows/**"
       - "*.md"
       - "!README.md"
+      - "!SUBPROJECTS.md"
   workflow_dispatch:
     inputs:
       repo_name:
@@ -39,7 +40,7 @@ jobs:
         with:
           github_token: ${{ secrets.BOT_GH_TOKEN }}
           patterns_to_include: .md,.github/workflows
-          patterns_to_ignore: README.md,LICENSE,.github/workflows/global-replicator.yml
+          patterns_to_ignore: README.md,LICENSE,SUBPROJECTS.md,.github/workflows/global-replicator.yml
           exclude_private: true
           exclude_forked: true
           committer_username: reShapr-bot
